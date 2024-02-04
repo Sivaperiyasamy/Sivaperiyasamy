@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Your Name!
 
 <p align="center">
-  <img src="profile-image.jpg" alt="Profile Image" class="rounded-full h-48 w-48">
+  <img src="siva.jpg" alt="Profile Image" class="rounded-full h-48 w-48">
 </p>
 
 I'm a passionate developer with a love for creating amazing things. Here you'll find a glimpse into my world of coding and creativity.
